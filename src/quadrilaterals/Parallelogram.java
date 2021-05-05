@@ -11,7 +11,9 @@ public class Parallelogram extends Quadrilaterals{
     }
     
     public double perimeter(double h, double b){
-        
+        // find the angle opposite the height measure
+        // slantSide=height/sin(angle)
+        //perimeter = 2(slantSide+base)
         return 0.0;
     }
 }
